@@ -5,8 +5,8 @@ from time import sleep
 import json
 import os
 
-telegram_key = os.environ['Covid_TELEGRAM_BOT']
-telegram_chat_id = os.environ['Covid_TELEGRAM_CHAT_ID']
+telegram_key = os.environ['6283120466:AAEf33L6dg3eP3DOdtZEoOrgKXlGqXbx1Vo']
+telegram_chat_id = os.environ['-4097848429']
 notification = "jg@notifiactionsound.wav"
 
 headers = {
